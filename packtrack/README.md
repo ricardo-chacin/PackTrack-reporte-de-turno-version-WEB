@@ -94,7 +94,6 @@ La app queda disponible en: **http://localhost:3000**
 - [ ] Dashboard de tendencias semanales / mensuales
 - [ ] Exportación a Excel (reutilizando storage.py)
 - [ ] Deploy en Railway (backend) + Vercel (frontend)
-- [ ] Integración con SAP / sistemas AB InBev vía API REST
 
 ---
 
